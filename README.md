@@ -8,15 +8,14 @@ Initiative is encouraged, you can add some bonuses as long as you explain your c
 
 ## Rot 13
 
-Google it.
-Clue: `man ascii` can help you 
+Google it.  
+Clue: `man ascii` can help you  
 
-Rules :
+Rules:
  - Implements the function in rot13/rot13.go
  - Only alphabetical characters should be impacted.
  - Run your code with `go run rot13/rot13.go`
- - Decode this: `Pbatenghyngvba, lbh'er ba gur tbbq jnl gb wbva Chyfne NV !`
- - Insert the decoded sentence just here : ``
+ - Decode the sentence: `Pbatenghyngvba, lbh'er ba gur tbbq jnl gb wbva Chyfne NV !`
 
 
 ## Concurrency
@@ -38,14 +37,18 @@ this can divide your execution time by two or even three (don't loose your time 
 this is not the main purpose of this exercise).
 
 This function take 4 params:
- - from & to, both are int32 and represent the born of the search
+ - from & to, both are uint32 and represent the research interval
  - channel, a channel to which send each prime number you found
- - wg : a waitgroup to tell your main function that the `findPrimeNumber` is finish
 
-When you have done with this function you should fulfill the `main` with a goroutine to print every channel input.
+When you have done with this function you should fulfill the `main` with a goroutine to print every number received though the channel.
 
 Rules:
  - You program should wait for every goroutine to finish (use waitgroup) and shouldn't deadlock or panic
- - You can add at many call to `findPrimeNumber` you want but the three that are already present should not be edited
+ - You are not allowed to change the `findPrimeNumber` signature
+ - The three `findPrimeNumber` calls have to remain in separate goroutine (but you can add code in the goroutine)
 
 Good luck
+
+## Mini Graph
+
+This project have it's own README under the folder `graph`: [MiniGraph README.md](graph/README.md)

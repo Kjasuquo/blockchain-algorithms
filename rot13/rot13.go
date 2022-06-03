@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func rot13(str string) string {
-
+	return ""
 }
 
 func main() {
