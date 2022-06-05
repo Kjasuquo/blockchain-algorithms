@@ -1,6 +1,6 @@
 # Golang technical tests
 
-Hello young padawan, weclome to this Golang technical test.
+Hello young padawan, welcome to this Golang technical test.
 Your work today will be to solve different exercises and enigma 
 that will prove both your level in code but also your ability to think and adapt.
 Initiative is encouraged, you can add some bonuses as long as you explain your choices in comment.
