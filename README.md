@@ -52,3 +52,8 @@ Good luck
 ## Mini Graph
 
 This project have it's own README under the folder `graph`: [MiniGraph README.md](graph/README.md)
+
+# Send us your work
+
+In order to not influence others candidates, send us a zip of your solution.  
+If the zip is too large for an email you can use https://wetransfer.com/ or any other service.
