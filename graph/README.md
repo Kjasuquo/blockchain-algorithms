@@ -63,7 +63,7 @@ You have to fulfill the function `FindShortestPath(graphMap *Map) uint` in the `
 the shortest path length between the start & end nodes. As we say before, each path between two node have a length. So, the length of the full path
 between start & end nodes is the sum of every intermediate path you use to rush the end node.
 
-You can run the program by using `go run graph/graph.go <path_to_map_file>`
+You can run the program by using `go run graph/graphmain/graph.go <path_to_map_file>`
 
 Notes:
 - The algorithm speed is also evaluated, you should avoid useless calculation
