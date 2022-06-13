@@ -33,7 +33,7 @@ but 6 is not prime because it can be divided by 2 or 3.
 More info : https://en.wikipedia.org/wiki/Prime_number
 
 If you were smart you will see that a large set of number that is easily predictable will never be prime,
-this can divide your execution time by two or even three (don't loose your time on this sentense if you don't know what I mean, 
+this can divide your execution time by two or even three (don't lose your time on this sentence if you don't know what I mean, 
 this is not the main purpose of this exercise).
 
 This function take 3 params:
