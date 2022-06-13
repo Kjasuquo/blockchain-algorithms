@@ -36,7 +36,7 @@ If you were smart you will see that a large set of number that is easily predict
 this can divide your execution time by two or even three (don't loose your time on this sentense if you don't know what I mean, 
 this is not the main purpose of this exercise).
 
-This function take 4 params:
+This function take 3 params:
  - from & to, both are uint32 and represent the research interval
  - channel, a channel to which send each prime number you found
 
