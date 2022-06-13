@@ -1,6 +1,6 @@
 # Golang technical tests
 
-Hello young padawan, weclome to this Golang technical test.
+Hello young padawan, welcome to this Golang technical test.
 Your work today will be to solve different exercises and enigma 
 that will prove both your level in code but also your ability to think and adapt.
 Initiative is encouraged, you can add some bonuses as long as you explain your choices in comment.
@@ -52,3 +52,8 @@ Good luck
 ## Mini Graph
 
 This project have it's own README under the folder `graph`: [MiniGraph README.md](graph/README.md)
+
+# Send us your work
+
+In order to not influence others candidates, send us a zip of your solution.  
+If the zip is too large for an email you can use https://wetransfer.com/ or any other service.
